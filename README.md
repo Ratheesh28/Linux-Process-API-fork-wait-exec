@@ -2,8 +2,6 @@
 Ex02-Linux Process API-fork(), wait(), exec()
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
 
-## NAME: YUVARAJ V
-## REGISTER NO: 212223230252
 
 Operating systems Lab exercise
 
