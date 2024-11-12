@@ -4,7 +4,8 @@ Ex02-Linux Process API-fork(), wait(), exec()
 
 
 Operating systems Lab exercise
-
+### Developed By: Ratheesh Kumar B R
+### Register No: 212223110040
 
 # AIM:
 To write C Program that uses Linux Process API - fork(), wait(), exec()
